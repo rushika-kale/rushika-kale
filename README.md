@@ -1,11 +1,15 @@
 <p align="center">
 <a href="https://github.com/rushika-kale">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Rushika Kale;Talent Intelligence Consultant+%7C+Power BI+%7C+Excel;SQL+%7C+Technical Trainer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Rushika Kale;Talent Intelligence Consultant;Power BI+%7C+Excel+%7C+SQL+%7C+Technical Trainer" alt="Typing SVG" /> 
 </a>
+    
+
 <br/>
+    
 <a href="https://github.com/rushika-kale">
     <img src="https://github-stats-alpha.vercel.app/api?username=rushika-kale&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+
 </br>
 
 ## Welcome to my Project Portfolio
