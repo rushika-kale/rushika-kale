@@ -31,7 +31,6 @@
 <img align="left" alt="Power BI" width="30px" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />
 <img align="left" alt="Salesforce" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/512px-Salesforce.com_logo.svg.png" />
 <img align="left" alt="AWS" width="30px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" />
-<img align="left" alt="Excel" width="30px" src="https://www.shareicon.net/data/2016/06/24/618244_excel_2000x2000.png" />
 <img align="left" alt="Google Sheets" width="26px" src="https://martechwithme.com/wp-content/uploads/2020/12/2000px-Google_Sheets_logo.svg.png" />
 <img align="left" alt="SQL Server" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
