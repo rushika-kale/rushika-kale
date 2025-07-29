@@ -10,7 +10,7 @@
 
 ## Welcome to my Project Portfolio
 
-- 🔭 I’m currently working with Business Unit: Talent Acquisition & Industry: Medical Healthcare
+- 🔭 I’m currently working with Business : Enterprise Informatics, Domain : Commercial Sales & Industry: Medical Healthcare
 - 🌱 I’m currently learning book <B>Expert Data Modelling in Power BI</B>
 - 👯 I’m looking to collaborate on Power BI Trainings 
 - 💬 Ask me about Power BI, Projects, Interview Preparations
@@ -19,16 +19,18 @@
 
 <!--
 - 🔭 Graduated from Yeshwantrao Chavan College of Engineering, Nagpur
-- 🌱 Business Unit: Talent Acquisition & Industry: Medical Healthcare
-- 🥅 Goal for 2024: Educate and help 2500+ students to upgrade with their Skills
+- 🌱 Business : Enterprise Informatics, Domain : Commercial Sales & Industry: Medical Healthcare
+- 🥅 Goal for 2025: Deep dive and learn Cloud computing
 - 📫 Connect with me at <a href="https://topmate.io/rushika_kale" target="blank">Topmate - Rushika Kale</a>
  - 🤔 I’m looking for help with ...
-- ⚡ Fun fact: I didn't know what are YouTube, Facebook, and Instagram until I was 15! -->
+- ⚡ Fun fact: I didn't know what are YouTube and Facebook until I was 15! -->
 
 
 ## Languages and Tools:
 
 <img align="left" alt="Power BI" width="30px" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png" />
+<img align="left" alt="Salesforce" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/512px-Salesforce.com_logo.svg.png" />
+<img align="left" alt="AWS" width="30px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" />
 <img align="left" alt="Excel" width="30px" src="https://www.shareicon.net/data/2016/06/24/618244_excel_2000x2000.png" />
 <img align="left" alt="Google Sheets" width="26px" src="https://martechwithme.com/wp-content/uploads/2020/12/2000px-Google_Sheets_logo.svg.png" />
 <img align="left" alt="SQL Server" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
